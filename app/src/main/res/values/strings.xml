@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample App</string>
+
+    <string name="developer_mode_on_title">Developer Mode Enabled</string>
+    <string name="developer_mode_on_warning">Developer mode is enabled. For security reasons,
+        this app cannot be used while Developer Mode is enabled.
+        Please disable Developer Mode in your device settings to continue using the app.</string>
+</resources>
